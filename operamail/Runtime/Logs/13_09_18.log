@@ -1,0 +1,842 @@
+[ 2013-09-18T18:10:03+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017671s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020619s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003130s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003566s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002308s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003980s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018284s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.021147s ]
+INFO: [ view_end ] --END-- [ RunTime:0.022521s ]
+
+[ 2013-09-18T18:11:29+08:00 ] 192.168.1.44 /structs/operamail/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011200s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012638s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003934s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015662s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017234s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002010s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002676s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001262s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014077s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002150s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003450s ]
+
+[ 2013-09-18T18:12:05+08:00 ] 192.168.1.44 /structs/operamail/Home/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001879s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003288s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004499s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019766s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002951s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003766s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001956s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016599s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004888s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006692s ]
+
+[ 2013-09-18T18:12:20+08:00 ] 192.168.1.44 /structs/operamail/Home/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003252s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004960s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004334s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.050442s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051928s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002541s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002950s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001360s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003294s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014129s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002389s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003708s ]
+
+[ 2013-09-18T18:12:24+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004304s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026563s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001939s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002541s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001286s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015593s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002356s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004157s ]
+
+[ 2013-09-18T18:16:21+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006626s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029188s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003133s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003307s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002343s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018857s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003150s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004467s ]
+
+[ 2013-09-18T18:16:45+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004065s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023499s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024970s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001992s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003073s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001315s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013557s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002359s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004374s ]
+
+[ 2013-09-18T18:17:02+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004843s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025883s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002490s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002438s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001597s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005888s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016145s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002317s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003615s ]
+
+[ 2013-09-18T18:17:28+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004732s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036292s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002341s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002387s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002760s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003637s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015029s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002172s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003505s ]
+
+[ 2013-09-18T18:18:11+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005220s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031226s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032832s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002866s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003235s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002240s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003968s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016712s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003459s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004798s ]
+
+[ 2013-09-18T18:37:07+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004811s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036793s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038612s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002962s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003832s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002985s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004544s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019138s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005629s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006928s ]
+
+[ 2013-09-18T18:38:02+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006597s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029295s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002405s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002786s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001825s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003731s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014452s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003933s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005454s ]
+
+[ 2013-09-18T18:38:34+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005860s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041055s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003031s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004276s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002048s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004688s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018443s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004290s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005894s ]
+
+[ 2013-09-18T18:39:12+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005821s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029381s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030745s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002655s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003198s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002136s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003966s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015812s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003576s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004873s ]
+
+[ 2013-09-18T18:40:17+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007089s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036844s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038709s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002892s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003862s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002495s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020245s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002824s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004157s ]
+
+[ 2013-09-18T18:40:37+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005156s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025149s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026611s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001913s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002621s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001355s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012984s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002345s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003691s ]
+
+[ 2013-09-18T18:40:51+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005036s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043711s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045192s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002693s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003929s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001752s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003839s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015960s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003748s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005033s ]
+
+[ 2013-09-18T18:41:04+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003982s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024179s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025555s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002185s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002393s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001330s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003557s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013941s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002415s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003805s ]
+
+[ 2013-09-18T18:42:34+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005986s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032726s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002945s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005142s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002100s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004077s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018161s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003758s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005289s ]
+
+[ 2013-09-18T18:43:00+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004521s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035437s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036999s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002867s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003930s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001916s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017978s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003769s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005332s ]
+
+[ 2013-09-18T18:43:09+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004456s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029171s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030571s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002633s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003384s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002237s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016108s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002832s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004190s ]
+
+[ 2013-09-18T18:44:01+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004431s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.030339s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031905s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002296s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002833s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001656s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005598s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016871s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002656s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004770s ]
+
+[ 2013-09-18T18:44:25+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004326s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028382s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001920s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002432s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001292s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014107s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002401s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003728s ]
+
+[ 2013-09-18T18:44:33+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004499s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030018s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002416s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002826s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001664s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003978s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014613s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003593s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004941s ]
+
+[ 2013-09-18T18:44:50+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004234s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027042s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028415s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002097s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002680s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001322s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013283s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004307s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005701s ]
+
+[ 2013-09-18T18:45:07+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005968s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037193s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002705s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003037s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001799s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016107s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002432s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003858s ]
+
+[ 2013-09-18T18:46:10+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005377s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.050815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052364s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002773s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003723s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002363s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016897s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002975s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004606s ]
+
+[ 2013-09-18T18:46:54+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004125s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029549s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002251s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002417s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001689s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014668s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002646s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004076s ]
+
+[ 2013-09-18T18:47:16+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004563s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031054s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004736s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002550s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001230s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003647s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016340s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002160s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003661s ]
+
+[ 2013-09-18T18:48:37+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005006s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038354s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003155s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004676s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002607s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018588s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003033s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004357s ]
+
+[ 2013-09-18T18:48:50+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004486s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025924s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002019s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002595s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001461s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014456s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002554s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004283s ]
+
+[ 2013-09-18T18:49:05+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005166s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034754s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002970s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003919s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002037s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005284s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018089s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004133s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005525s ]
+
+[ 2013-09-18T18:49:23+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005092s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030907s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003772s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003309s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002113s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003912s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018567s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004867s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006559s ]
+
+[ 2013-09-18T18:50:16+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005130s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027947s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029435s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002465s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002868s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002129s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014880s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003810s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005224s ]
+
+[ 2013-09-18T18:50:26+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007682s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032301s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033734s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002083s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002425s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001889s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004742s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015090s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003592s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004932s ]
+
+[ 2013-09-18T18:50:49+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004599s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037016s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003055s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003336s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001860s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003622s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016458s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003635s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004920s ]
+
+[ 2013-09-18T18:51:07+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004604s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030967s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003321s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004533s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002291s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018292s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002987s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004336s ]
+
+[ 2013-09-18T18:51:48+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005434s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031416s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002467s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002659s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001941s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004684s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015996s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002713s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004282s ]
+
+[ 2013-09-18T18:52:40+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004815s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031189s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032920s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003145s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002827s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001470s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003948s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015660s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004970s ]
+
+[ 2013-09-18T18:52:59+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003904s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026600s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001999s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002565s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001363s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013237s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002073s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003377s ]
+
+[ 2013-09-18T18:53:37+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006802s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031587s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032956s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002886s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003291s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002233s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005563s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018411s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003840s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005242s ]
+
+[ 2013-09-18T18:54:05+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004746s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032993s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002494s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002900s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001713s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003530s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014299s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003714s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005154s ]
+
+[ 2013-09-18T18:55:08+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005158s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037845s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002943s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002999s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001742s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003867s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015492s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003639s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004948s ]
+
+[ 2013-09-18T18:56:12+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005490s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029977s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031470s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002779s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003253s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002060s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004185s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016291s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003092s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004504s ]
+
+[ 2013-09-18T18:56:21+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006391s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031107s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032532s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002944s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003198s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002057s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016369s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003801s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005637s ]
+
+[ 2013-09-18T18:56:50+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004735s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.037609s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039151s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002825s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003706s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001906s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003943s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017503s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003826s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005184s ]
+
+[ 2013-09-18T18:57:24+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004631s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.030859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032317s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004764s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002924s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001802s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003771s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017133s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003602s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004937s ]
+
+[ 2013-09-18T18:57:34+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004093s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024667s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026033s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002415s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002512s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001410s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013534s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002133s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003622s ]
+
+[ 2013-09-18T18:58:14+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004965s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.034205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037955s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002964s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003420s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002093s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004782s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018506s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003449s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004776s ]
+
