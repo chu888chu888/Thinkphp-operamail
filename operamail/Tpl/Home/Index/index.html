@@ -25,14 +25,24 @@ b
 		<span class='holder fl'></span>
 		<span class='search fl'>
 			<form action=''>
-				<input type='text' name='' />
+				<input class='searchtxt' type='text' name='' />
+				<input type='button' class='searchdrop' />
 			</form>
 		</span>
 		<span class='icontols fl'><i class='icon icon-reload'></i></span>
 		<span class='holder fr'></span>
 		<span class='icontols fr'><i class='icon icon-listsort'></i></span>
 	</div>
-c
+	<div class='arcs'>
+		<div class='arcdate'>昨天</div>
+		<ul class='arclis'>
+			<li>
+				<span class='arctitle'><h3>高清精美壁纸：2013年10月桌面日历壁纸免费下载 - 梦想天空（山边小溪）</h3></span>
+				<span class='arcuser'>梦想天空（山边小溪）</span>
+				<span class='arctime fr'>周日 14:10</span>
+			</li>
+		</ul>
+	</div>
 </div>
 <div class='left content'>
 	<div class='toolbar'>
