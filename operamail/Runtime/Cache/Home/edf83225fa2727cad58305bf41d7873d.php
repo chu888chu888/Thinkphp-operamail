@@ -1,5 +1,10 @@
-<?php if (!defined('THINK_PATH')) exit();?><meta charset='utf-8' />
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8' />
 <link href='__PUBLIC__/Css/base.css' rel='stylesheet' />
+</head>
+<body>
 <div class='left sidebar'>
 	<div class='toolbary'>
 		<span class='holdery'></span>
@@ -13,25 +18,59 @@
 </div>
 <div class='left mailist'>
 	<div class='toolbar'>
-		<span class='holder fl'></span>
-		
-		<span class='holder fr'></span>
-		<span class='icontols fr'><i class='icon icon-stop'></i></span>
+		<div class='borderbg'>
+			<span class='holder fl'></span>
+			<span class='icontols fl'>
+				<i class='icon icon-text dropdowndiv'>邮件
+					<i class='dropdown'></i>
+				</i>
+			</span>
+			<span class='holder fr'></span>
+			<span class='icontols fr'><i class='icon icon-close'></i></span>
+		</div>
 	</div>
-b
+	<div class='border'>
+		<div class='toolbar panelbar'>
+			<span class='icontols fl'><i class='icon icon-reload' title='更新全部(CTRL+R)'></i></span>
+			<span class='icontols fr'>
+				<i class='icon icon-config dropdowndiv' title='查看'>
+					<i class='dropdown'></i>
+				</i>
+			</span>
+		</div>
+		<div class='accordbar'>
+			<div class='accordtitle'>网源</div>
+			<ul class='rsslis'>
+				<?php $__FOR_START_9404__=1;$__FOR_END_9404__=15;for($i=$__FOR_START_9404__;$i < $__FOR_END_9404__;$i+=1){ ?><li <?php if(($i) == "1"): ?>class='selected'<?php endif; ?>>
+					<img src='http://qihuailong.com/favicon.ico'>
+					<span class='rsstitle'>
+						<a href='e' title='Qihuailong(33封未读，共33封)'>Qihuailong™</a>
+					</span>
+					<span class='rsscount fr'>80</span>
+				</li><?php } ?>
+			</ul>
+			<div class='accordtitle'>标签</div>
+		</div>
+	</div>
 </div>
 <div class='left arclist'>
 	<div class='toolbar'>
-		<span class='holder fl'></span>
-		<span class='search fl'>
-			<form action=''>
-				<input class='searchtxt' type='text' name='' />
-				<input type='button' class='searchdrop' />
-			</form>
-		</span>
-		<span class='icontols fl'><i class='icon icon-reload'></i></span>
-		<span class='holder fr'></span>
-		<span class='icontols fr'><i class='icon icon-listsort'></i></span>
+		<div class='borderbg'>
+			<span class='holder fl'></span>
+			<span class='search fl'>
+				<form action=''>
+					<input class='searchtxt' type='text' name='' placeholder='搜索文章' />
+					<input type='button' class='searchdrop' />
+				</form>
+			</span>
+			<span class='icontols fl'><i class='icon icon-reload' title='更新(CTRL+R)'></i></span>
+			<span class='holder fr'></span>
+			<span class='icontols fr'>
+				<i class='icon icon-listsort dropdowndiv' title='此视图的设置：'>
+					<i class='dropdown'></i>
+				</i>
+			</span>
+		</div>
 	</div>
 	<div class='arcs'>
 		<div class='arcdate'>昨天</div>
@@ -47,16 +86,24 @@ b
 <div class='left content'>
 	<div class='toolbar'>
 		<span class='holder fl'></span>
-		<span class='icontols fl'><i class='icon icon-read'></i></span>
-		<span class='icontols fl'><i class='icon icon-delete'></i></span>
+		<span class='icontols fl'><i class='icon icon-read' title='已阅读(K)'></i></span>
+		<span class='icontols fl'>
+			<i class='icon icon-delete dropdowndiv' title='删除'>
+				<i class='dropdown'></i>
+			</i>
+		</span>
 		<span class='holder fr'></span>
-		<span class='icontols fr'><i class='icon icon-config'></i></span>
+		<span class='icontols fr'>
+			<i class='icon icon-config dropdowndiv' title='邮件的默认设置'>
+				<i class='dropdown'></i>
+			</i>
+		</span>
 		
 	</div>
 	<div class='mcont'>
 		<div class='ltitle'>
 			<h1>在线字体识别方法 </h1>
-			<div>lvtao <span class='time'>2013年8月29日 22:50:22</span></div>
+			<div class='linfo'>lvtao <span class='time'>2013年8月29日 22:50:22</span></div>
 		</div>
 	</div>
 	<hr>
@@ -68,3 +115,5 @@ b
 		<p><a href='' class='more'>阅读全文</a><p>
 	</div>
 </div>
+</body>
+</html>
