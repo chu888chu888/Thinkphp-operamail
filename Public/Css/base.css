@@ -87,6 +87,7 @@ body{
 .time{
 	float:right;
 }
+.main{line-height:30px;}
 .main p{
 	text-indent:10px;
 }
@@ -108,8 +109,9 @@ body{
 	border-color:#a09b8d;
 }
 .sidebar .icontols{border-style:solid none;border-radius:0;padding:4px 2px;}
-.sidebar .icontols:hover{background-color:#e2dbc9;}
-
+.sidebar .icontols:hover{background-color:#e2dbc9;border-color:#e5e0d2;}
+.icontolsmall{margin-right:4px;opacity:0;}
+.icontolsmall:hover{opacity:1;}
 .icon{
 	cursor:pointer;
 	margin: 2px 0;
@@ -262,3 +264,10 @@ body{
 }
 .rsscount{margin:3px;}
 .borderbg{height:100%;background:url(images/border.png?v=2) right top no-repeat;}
+.readetail{
+	width:13px;
+	height:11px;
+	padding:0 15px;
+	background:url(images/readetail.png) no-repeat;
+}
+.readetail,.readetail:link{color:#aaa;}

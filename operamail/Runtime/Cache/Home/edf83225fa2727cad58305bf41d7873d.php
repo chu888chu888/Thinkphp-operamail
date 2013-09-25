@@ -39,9 +39,14 @@
 			</span>
 		</div>
 		<div class='accordbar'>
-			<div class='accordtitle'>网源</div>
+			<div class='accordtitle'>网源
+				<span class='icontolsmall fr'>
+				<i class='icon icon-config'>
+				</i>
+				</span>
+			</div>
 			<ul class='rsslis'>
-				<?php $__FOR_START_9404__=1;$__FOR_END_9404__=15;for($i=$__FOR_START_9404__;$i < $__FOR_END_9404__;$i+=1){ ?><li <?php if(($i) == "1"): ?>class='selected'<?php endif; ?>>
+				<?php $__FOR_START_18724__=1;$__FOR_END_18724__=15;for($i=$__FOR_START_18724__;$i < $__FOR_END_18724__;$i+=1){ ?><li <?php if(($i) == "1"): ?>class='selected'<?php endif; ?>>
 					<img src='http://qihuailong.com/favicon.ico'>
 					<span class='rsstitle'>
 						<a href='e' title='Qihuailong(33封未读，共33封)'>Qihuailong™</a>
@@ -49,7 +54,12 @@
 					<span class='rsscount fr'>80</span>
 				</li><?php } ?>
 			</ul>
-			<div class='accordtitle'>标签</div>
+			<div class='accordtitle'>标签
+				<span class='icontolsmall fr'>
+				<i class='icon icon-config'>
+				</i>
+				</span>
+			</div>
 		</div>
 	</div>
 </div>
@@ -112,7 +122,9 @@
 			程序发轻狂，代码阑珊，苹果开发安卓狂！——写给狂热的编程爱好者们 学习iOS应用程序开发已有一段时间，最近稍微闲下来了，正好也想记录一下前阶段的整个学习过程。索性就从最基础的开始，一步一步记录一个最简单的iOS应用从创建到运行的全过程，其中会穿插很多相关知识或是遇到过的问题。
 			阅读全文>>
 		</p>
-		<p><a href='' class='more'>阅读全文</a><p>
+		<p></p>
+		<p></p>
+		<p><a href='' class='readetail'>阅读全文</a><p>
 	</div>
 </div>
 </body>
