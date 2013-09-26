@@ -3,6 +3,8 @@
 <head>
 <meta charset='utf-8' />
 <link href='__PUBLIC__/Css/base.css' rel='stylesheet' />
+<script src='__PUBLIC__/Js/jquery-1.7.1.min.js'></script>
+<script src='__PUBLIC__/Js/app.js'></script>
 </head>
 <body>
 <div class='left sidebar'>
@@ -41,18 +43,30 @@
 		<div class='accordbar'>
 			<div class='accordtitle'>网源
 				<span class='icontolsmall fr'>
-				<i class='icon icon-config'>
+				<i class='icon icon-config menu-item'>
+					<ul class='menu'>
+						<li class='mread icon-mail-small'>读取网源</li>
+						<li class='mread icon-feeds'>添加网源</li>
+						<li class='mread icon-add-small'>新建文件夹</li>
+						<li class='mread'><hr></li>
+						<li class='sub-menu-item'>
+						自定义
+							<ul class='submenu'>
+								<li>1</li>
+							</ul>
+						</li>
+					</ul>
 				</i>
 				</span>
 			</div>
 			<ul class='rsslis'>
-				<?php $__FOR_START_18724__=1;$__FOR_END_18724__=15;for($i=$__FOR_START_18724__;$i < $__FOR_END_18724__;$i+=1){ ?><li <?php if(($i) == "1"): ?>class='selected'<?php endif; ?>>
-					<img src='http://qihuailong.com/favicon.ico'>
-					<span class='rsstitle'>
-						<a href='e' title='Qihuailong(33封未读，共33封)'>Qihuailong™</a>
-					</span>
-					<span class='rsscount fr'>80</span>
-				</li><?php } ?>
+				<?php if(is_array($nodes)): $i = 0; $__LIST__ = $nodes;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li <?php if(($i) == "1"): ?>class='selected'<?php endif; ?>>
+						<img src='<?php echo ($vo["ico"]); ?>'>
+						<span class='rsstitle'>
+							<a href='e' title='<?php echo ($vo["name"]); ?>(33封未读，共33封)'><?php echo ($vo["name"]); ?></a>
+						</span>
+						<span class='rsscount fr'>80</span>
+					</li><?php endforeach; endif; else: echo "" ;endif; ?>
 			</ul>
 			<div class='accordtitle'>标签
 				<span class='icontolsmall fr'>
@@ -85,11 +99,11 @@
 	<div class='arcs'>
 		<div class='arcdate'>昨天</div>
 		<ul class='arclis'>
-			<li>
-				<span class='arctitle'><h3>高清精美壁纸：2013年10月桌面日历壁纸免费下载 - 梦想天空（山边小溪）</h3></span>
-				<span class='arcuser'>梦想天空（山边小溪）</span>
-				<span class='arctime fr'>周日 14:10</span>
-			</li>
+			<?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li>
+					<span class='arctitle'><h3><?php echo ($vo["title"]); ?></h3></span>
+					<span class='arcuser'><?php echo ($vo["author"]); ?></span>
+					<span class='arctime fr'>周日 14:10</span>
+				</li><?php endforeach; endif; else: echo "" ;endif; ?>
 		</ul>
 	</div>
 </div>

@@ -199,12 +199,12 @@ class DbSqlite extends Db {
         $info   =   array();
         if($result){
             foreach ($result as $key => $val) {
-                $info[$val['Field']] = array(
-                    'name'    => $val['Field'],
-                    'type'    => $val['Type'],
-                    'notnull' => (bool) ($val['Null'] === ''), // not null is empty, null is yes
-                    'default' => $val['Default'],
-                    'primary' => (strtolower($val['Key']) == 'pri'),
+                $info[$val['name']] = array(
+                    'name'    => $val['name'],
+                    'type'    => $val['type'],
+                    'notnull' => (bool) ($val['notnull'] === ''), // not null is empty, null is yes
+                    'default' => $val['dflt_value'],
+                    'primary' => (strtolower($val['pk']) == '1'),
                     'autoinc' => (strtolower($val['Extra']) == 'auto_increment'),
                 );
             }

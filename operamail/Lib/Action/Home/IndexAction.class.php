@@ -3,6 +3,9 @@
 class IndexAction extends Action {
     public function index(){
 		$nodes=M('RssNode')->select();
+		$rss=M('Rss')->where('nodeid=1')->select();
+		$this->assign('list',$rss);
+		$this->assign('nodes',$nodes);
 		$this->display();
     }
 	
@@ -19,6 +22,7 @@ class IndexAction extends Action {
 	
 	protected function _parseXml($arr){
 		$key=md5($arr['url']);
+		$nodeid=$arr['id'];
 		$cache=F($key);
 		if(empty($cache)||time()-$cache['time']>$arr['frequence']){
 			$cache=array(
@@ -28,9 +32,24 @@ class IndexAction extends Action {
 			F($key,$cache);
 		}
 		$data=$cache['data'];
-		$xml=simplexml_load_string($data);
-		var_dump($xml);
-		$arr = json_decode(json_encode((array)$xml), TRUE);
-		var_dump($arr);
+		$model=M('Rss');
+		$history=M('RssHistory');
+		import('@.Thirdlib.gFeed');
+		$xml=new RssReader();
+		$xml->parseString($data);
+		$xml->skip();
+		
+		while($xml->next()){
+			$xmldata=$xml->read();
+			$map['hash']=md5($xmldata['link']);
+			if($tmp=$history->where($map)->find()){
+				continue;
+			}else{
+				$history->add($map);
+				$xmldata['pubdate']=strtotime($xmldata['pubdate']);
+				$xmldata['nodeid']=$nodeid;
+				$model->add($xmldata);
+			}
+		}
 	}
 }
