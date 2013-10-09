@@ -1,3 +1,12 @@
-$(document).read(function(){
-	
+$(document).ready(function(){
+	$('a.rssreada').click(function(){
+		obj=$(this)
+		$('a.rssreada').parents('li').removeClass('selected')
+		$(this).parents('li').addClass('selected')
+		id=$(this).data('id')
+		url='Index/get_list.html?id='+id
+		$.get(url,function(json){
+		})
+	})
+	$('a.rssreada').eq(0).trigger('click')
 })

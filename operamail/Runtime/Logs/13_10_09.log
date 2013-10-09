@@ -1,0 +1,1839 @@
+[ 2013-10-09T16:28:51+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.042429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.072879s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000344s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000816s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000320s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.001298s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.205910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.207325s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.031001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004280s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008650s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.011929s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.059616s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003593s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005422s ]
+
+[ 2013-10-09T16:48:12+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005906s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.001546s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.001084s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000343s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.001101s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.093649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.095058s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003881s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003734s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003115s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005039s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019663s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003700s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005126s ]
+
+[ 2013-10-09T16:48:29+08:00 ] 192.168.1.44 /structs/operamail/e
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.024074s ]
+INFO: [ route_check ] --END-- [ RunTime:0.025386s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005512s ]
+ERR: 无法加载模块:e
+
+[ 2013-10-09T16:59:03+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005722s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000324s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000479s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000373s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.008893s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.100438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101863s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004025s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003803s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003159s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004771s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019556s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003681s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005128s ]
+
+[ 2013-10-09T16:59:21+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006266s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000434s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000476s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000388s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000716s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.076458s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077895s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003615s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004245s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004277s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.009630s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025940s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003591s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004943s ]
+
+[ 2013-10-09T17:03:36+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005907s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000326s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000587s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000338s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000656s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.200303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.201714s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003583s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004196s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002888s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004446s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018877s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003718s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005066s ]
+
+[ 2013-10-09T17:03:37+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003368s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004727s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005908s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000345s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.000530s ]
+
+[ 2013-10-09T17:11:39+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003912s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005700s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005676s ]
+NOTIC: [2] Missing argument 1 for Model::where(), called in E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php on line 60 and defined E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1479 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1487 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1490 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1498 行.
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid LIMIT 1   [ RunTime:0.000633s ]
+NOTIC: [8] Undefined index:  HTTP_REFERER E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Action.class.php 第 389 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.099137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100652s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003947s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005741s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003192s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004956s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021685s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003793s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005347s ]
+
+[ 2013-10-09T17:11:40+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003357s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004764s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005959s ]
+NOTIC: [2] Missing argument 1 for Model::where(), called in E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php on line 60 and defined E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1479 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1487 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1490 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1498 行.
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid LIMIT 1   [ RunTime:0.000504s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.041471s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042875s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003492s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003805s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002623s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006363s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019990s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003498s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004794s ]
+
+[ 2013-10-09T17:11:42+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003694s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005736s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006502s ]
+NOTIC: [2] Missing argument 1 for Model::where(), called in E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php on line 60 and defined E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1479 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1487 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1490 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1498 行.
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid LIMIT 1   [ RunTime:0.000892s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.052052s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053469s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.007702s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005062s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003354s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005817s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025956s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006635s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008038s ]
+
+[ 2013-10-09T17:11:51+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005517s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000337s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000477s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000399s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000584s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.112639s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114902s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003449s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003916s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005502s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023504s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004557s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005857s ]
+
+[ 2013-10-09T17:11:52+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003075s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004534s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004908s ]
+NOTIC: [2] Missing argument 1 for Model::where(), called in E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php on line 60 and defined E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1479 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1487 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1490 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1498 行.
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid LIMIT 1   [ RunTime:0.000704s ]
+
+[ 2013-10-09T17:12:33+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005946s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007634s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006052s ]
+NOTIC: [2] Missing argument 1 for Model::where(), called in E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php on line 60 and defined E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1479 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1487 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1490 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1498 行.
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid LIMIT 1   [ RunTime:0.000613s ]
+NOTIC: [8] Undefined index:  HTTP_REFERER E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Action.class.php 第 389 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.037864s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039279s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003438s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004292s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003753s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.008049s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023516s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003726s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005019s ]
+
+[ 2013-10-09T17:12:35+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003740s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005438s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005898s ]
+NOTIC: [2] Missing argument 1 for Model::where(), called in E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php on line 60 and defined E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1479 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1487 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1490 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1498 行.
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid LIMIT 1   [ RunTime:0.000587s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.038227s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040015s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003413s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004048s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002543s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004773s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018706s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003926s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005338s ]
+
+[ 2013-10-09T17:12:36+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003150s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005121s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006549s ]
+NOTIC: [2] Missing argument 1 for Model::where(), called in E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php on line 60 and defined E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1479 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1487 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1490 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1498 行.
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid LIMIT 1   [ RunTime:0.000565s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.038592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040169s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003429s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004052s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004660s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004850s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020972s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003438s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004743s ]
+
+[ 2013-10-09T17:12:37+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003925s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005430s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006280s ]
+NOTIC: [2] Missing argument 1 for Model::where(), called in E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php on line 60 and defined E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1479 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1487 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1490 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1498 行.
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid LIMIT 1   [ RunTime:0.000642s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043494s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053762s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003617s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004029s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002741s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019866s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003813s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005090s ]
+
+[ 2013-10-09T17:12:38+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003163s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004693s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005084s ]
+NOTIC: [2] Missing argument 1 for Model::where(), called in E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php on line 60 and defined E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1479 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1487 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1490 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1498 行.
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid LIMIT 1   [ RunTime:0.000492s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044597s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003667s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003978s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002850s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004819s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019740s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:61) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004517s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005843s ]
+
+[ 2013-10-09T17:12:40+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004260s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005748s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006276s ]
+NOTIC: [2] Missing argument 1 for Model::where(), called in E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php on line 60 and defined E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1479 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1487 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1490 行.
+NOTIC: [8] Undefined variable: where E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\Model.class.php 第 1498 行.
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid LIMIT 1   [ RunTime:0.004544s ]
+
+[ 2013-10-09T17:13:02+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003407s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004841s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006543s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) AND ( b.isread = 0 ) LIMIT 1   [ RunTime:0.000514s ]
+
+[ 2013-10-09T17:16:18+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003268s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004765s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005450s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) AND ( b.isread = 0 ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000598s ]
+
+[ 2013-10-09T17:18:19+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005519s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000333s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000474s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000320s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000531s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.068805s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070353s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003575s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004289s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002566s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020468s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004054s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005673s ]
+
+[ 2013-10-09T17:18:20+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003244s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005096s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006375s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) AND ( b.isread = 0 ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000570s ]
+
+[ 2013-10-09T17:21:04+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005345s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000335s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.001029s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000353s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000593s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.070056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071416s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003427s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003764s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002823s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.007807s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021846s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003855s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005630s ]
+
+[ 2013-10-09T17:21:24+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005064s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000325s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000474s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000342s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000527s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.083251s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084587s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002701s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004117s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002209s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019962s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005612s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007016s ]
+
+[ 2013-10-09T17:21:25+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003368s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004922s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003950s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005171s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) AND ( b.isread = 0 ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000643s ]
+
+[ 2013-10-09T17:21:35+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005725s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000331s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000494s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000468s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000565s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.074838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076321s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003617s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003706s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002540s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019005s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003483s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004995s ]
+
+[ 2013-10-09T17:21:50+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005170s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000504s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000479s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000320s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000838s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.069597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070986s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004940s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003884s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002501s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004858s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019935s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003832s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005283s ]
+
+[ 2013-10-09T17:22:12+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004162s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000323s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000472s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000317s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000542s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.071908s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073361s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001938s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002333s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001652s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014870s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004933s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008051s ]
+
+[ 2013-10-09T17:22:18+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004367s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000435s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000471s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000487s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000582s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063401s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001929s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002814s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001281s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012694s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003146s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004481s ]
+
+[ 2013-10-09T17:22:19+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003207s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005862s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006970s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) AND ( b.isread = 0 ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000553s ]
+
+[ 2013-10-09T17:23:57+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005450s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.001285s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000477s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000333s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000531s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.073303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074831s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003807s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003836s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004929s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.024938s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003489s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004941s ]
+
+[ 2013-10-09T17:23:58+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003617s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004980s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005376s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) AND ( b.isread = 0 ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000658s ]
+
+[ 2013-10-09T17:25:16+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005003s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000330s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000655s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000332s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000539s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.070371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071744s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003399s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003166s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003020s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017180s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004618s ]
+INFO: [ view_end ] --END-- [ RunTime:0.009493s ]
+
+[ 2013-10-09T17:25:16+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003569s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004916s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006373s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) AND ( b.isread = 0 ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000619s ]
+
+[ 2013-10-09T17:25:32+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005226s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000872s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000572s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000339s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000771s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.069157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070581s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003553s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003916s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006489s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023262s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006370s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007801s ]
+
+[ 2013-10-09T17:25:32+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003364s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004735s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004669s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) AND ( b.isread = 0 ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000613s ]
+
+[ 2013-10-09T17:58:14+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006116s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000320s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000544s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000351s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000531s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.127941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131713s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002861s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012797s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001994s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.043865s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.065228s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003504s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004816s ]
+
+[ 2013-10-09T17:58:15+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003943s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005406s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007837s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) AND ( b.isread = 0 ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.001193s ]
+
+[ 2013-10-09T17:58:28+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005267s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000329s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000635s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000481s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000540s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.082144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087766s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003489s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004300s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004102s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005896s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021502s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005829s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007155s ]
+
+[ 2013-10-09T17:58:28+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003176s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004752s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004857s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) AND ( b.isread = 0 ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.007800s ]
+
+[ 2013-10-09T17:58:39+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005273s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000327s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000478s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000372s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000561s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.092030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093559s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004151s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004108s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003086s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.013708s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.028893s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003791s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005138s ]
+
+[ 2013-10-09T17:58:40+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003380s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004873s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005362s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) AND ( b.isread = 0 ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.001539s ]
+
+[ 2013-10-09T17:58:42+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003257s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004641s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004851s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '2' ) AND ( b.isread = 0 ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000502s ]
+
+[ 2013-10-09T17:59:17+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003975s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007457s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005850s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '2' ) AND ( b.isread = 0 ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000518s ]
+
+[ 2013-10-09T18:03:57+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005486s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000338s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000673s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000327s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000580s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.067339s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068742s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003361s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004076s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002667s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.008224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022262s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003725s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005281s ]
+
+[ 2013-10-09T18:03:57+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003482s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004832s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005948s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.001495s ]
+
+[ 2013-10-09T18:03:59+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003195s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004689s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004571s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '2' ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000510s ]
+
+[ 2013-10-09T18:04:17+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005363s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000324s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000480s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000326s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000573s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.066964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068326s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003278s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003778s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002515s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004865s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018266s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003817s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005134s ]
+
+[ 2013-10-09T18:04:18+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004293s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005749s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006426s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000522s ]
+
+[ 2013-10-09T18:04:25+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003166s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004828s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005399s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '2' ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.003220s ]
+
+[ 2013-10-09T18:04:54+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005826s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000384s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000474s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000322s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000575s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.068521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069917s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004667s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004116s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002544s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004768s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019845s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003771s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005111s ]
+
+[ 2013-10-09T18:05:23+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004407s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000321s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000478s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000319s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000552s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.062827s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064337s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003239s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003218s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001990s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003924s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016085s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003699s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005031s ]
+
+[ 2013-10-09T18:05:49+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005789s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000326s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000517s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000347s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000561s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.081618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083280s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003865s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003882s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002968s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019396s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003859s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005857s ]
+
+[ 2013-10-09T18:06:05+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005330s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000348s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000893s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000444s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000732s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.071090s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072427s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003985s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003713s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002597s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020539s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003829s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005166s ]
+
+[ 2013-10-09T18:06:05+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003770s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005283s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012913s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000619s ]
+
+[ 2013-10-09T18:06:05+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003146s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005221s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007263s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000634s ]
+
+[ 2013-10-09T18:06:40+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009782s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000384s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000557s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000514s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.003969s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.080885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082427s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004101s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.013185s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005226s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.036203s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003492s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004976s ]
+
+[ 2013-10-09T18:06:41+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003226s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004677s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005198s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000599s ]
+
+[ 2013-10-09T18:07:56+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005619s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000396s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000464s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000349s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000782s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.071459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074896s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003856s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006026s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003266s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.007536s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.027096s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004897s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006284s ]
+
+[ 2013-10-09T18:07:57+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003773s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005794s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007461s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000626s ]
+
+[ 2013-10-09T18:08:17+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006669s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.001457s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000679s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000345s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000537s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.064782s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066551s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002716s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003049s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002653s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016120s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005149s ]
+INFO: [ view_end ] --END-- [ RunTime:0.023445s ]
+
+[ 2013-10-09T18:08:18+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003294s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004651s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006228s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000574s ]
+
+[ 2013-10-09T18:13:13+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006889s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000939s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000646s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000331s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000554s ]
+SQL: SELECT a.*,b.id,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid GROUP BY b.nodeid  [ RunTime:0.000539s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.067871s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070045s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003320s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003676s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008920s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025918s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:8) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:8) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:8) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005060s ]
+INFO: [ view_end ] --END-- [ RunTime:0.013558s ]
+
+[ 2013-10-09T18:13:14+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003440s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004773s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005101s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.000544s ]
+
+[ 2013-10-09T18:17:47+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005755s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000417s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000487s ]
+SQL: SELECT a.name name,a.id id,b.id bid,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid GROUP BY b.nodeid  [ RunTime:0.000682s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index:  title E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 106 行.
+NOTIC: [8] Undefined index:  author E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 107 行.
+NOTIC: [8] Undefined index:  title E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 106 行.
+NOTIC: [8] Undefined index:  author E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 107 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.127589s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129219s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003115s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003216s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002225s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003867s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016245s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003876s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005223s ]
+
+[ 2013-10-09T18:17:48+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004033s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005417s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004338s ]
+SQL: SELECT a.*,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid WHERE ( a.id = '1' ) GROUP BY b.nodeid LIMIT 1   [ RunTime:0.001090s ]
+
+[ 2013-10-09T18:30:06+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006042s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000349s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000523s ]
+SQL: SELECT a.name name,a.id id,b.id bid,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid GROUP BY b.nodeid  [ RunTime:0.000595s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index:  title E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 106 行.
+NOTIC: [8] Undefined index:  author E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 107 行.
+NOTIC: [8] Undefined index:  title E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 106 行.
+NOTIC: [8] Undefined index:  author E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 107 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.080623s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082028s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.009085s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003944s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002833s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.026139s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005797s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007109s ]
+
+[ 2013-10-09T18:30:06+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003691s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005471s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006587s ]
+NOTIC: [8] Undefined variable: info E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php 第 60 行.
+
+[ 2013-10-09T18:30:58+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006463s ]
+SQL: PRAGMA table_info( think_rss_node ) [ RunTime:0.000348s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss_node  [ RunTime:0.000530s ]
+SQL: SELECT a.name name,a.id id,b.id bid,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid GROUP BY b.nodeid  [ RunTime:0.000545s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index:  title E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 106 行.
+NOTIC: [8] Undefined index:  author E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 107 行.
+NOTIC: [8] Undefined index:  title E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 106 行.
+NOTIC: [8] Undefined index:  author E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 107 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.137384s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.139191s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003558s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004621s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004079s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021366s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:8) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:8) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php:8) E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003776s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006577s ]
+
+[ 2013-10-09T18:30:59+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003150s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005874s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005550s ]
+NOTIC: [8] Undefined variable: info E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php 第 61 行.
+
+[ 2013-10-09T18:33:05+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007157s ]
+SQL: SELECT a.name name,a.id id,b.id bid,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid GROUP BY b.nodeid  [ RunTime:0.002645s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000451s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000591s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index:  ico E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 64 行.
+NOTIC: [8] Undefined index:  ico E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 64 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.087601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088992s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003321s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005515s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002919s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020011s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003786s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005355s ]
+
+[ 2013-10-09T18:33:05+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003700s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005104s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005535s ]
+NOTIC: [8] Undefined variable: info E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php 第 60 行.
+
+[ 2013-10-09T18:33:46+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007029s ]
+NOTIC: [2] sqlite_query() [<a href='function.sqlite-query'>function.sqlite-query</a>]: ambiguous column name: id E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 86 行.
+SQL: SELECT a.name name,a.id id,b.id bid,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid GROUP BY b.nodeid ORDER BY id asc  [ RunTime:0.008097s ]
+ERR: 1:SQL logic error or missing database
+ [ SQL语句 ] : SELECT a.name name,a.id id,b.id bid,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid GROUP BY b.nodeid ORDER BY id asc 
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000359s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000738s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.078635s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080199s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003338s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003230s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005078s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019817s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004038s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005649s ]
+
+[ 2013-10-09T18:34:02+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007580s ]
+SQL: SELECT a.name name,a.id id,b.id bid,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid GROUP BY b.nodeid ORDER BY a.id asc  [ RunTime:0.000568s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000434s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000620s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index:  ico E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 64 行.
+NOTIC: [8] Undefined index:  ico E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Runtime\Cache\Home\edf83225fa2727cad58305bf41d7873d.php 第 64 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.088616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.090156s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005767s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.014576s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003450s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004594s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.034774s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003494s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004872s ]
+
+[ 2013-10-09T18:34:03+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003484s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004987s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005260s ]
+NOTIC: [8] Undefined variable: info E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php 第 60 行.
+
+[ 2013-10-09T18:34:22+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005464s ]
+SQL: SELECT a.ico ico,a.name name,a.id id,b.id bid,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid GROUP BY b.nodeid ORDER BY a.id asc  [ RunTime:0.000540s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000351s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000826s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.078253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079660s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003903s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003793s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008035s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025790s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003611s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004913s ]
+
+[ 2013-10-09T18:34:22+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003403s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004838s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005648s ]
+NOTIC: [8] Undefined variable: info E:\APMServ5.2.6\www\htdocs\structs\operamail\operamail\Lib\Action\Home\IndexAction.class.php 第 60 行.
+
+[ 2013-10-09T18:35:54+08:00 ] 192.168.1.44 /structs/operamail/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007926s ]
+SQL: SELECT a.ico ico,a.name name,a.id id,b.id bid,count(*) count FROM think_rss_node a LEFT JOIN think_rss b on a.id=b.nodeid GROUP BY b.nodeid ORDER BY a.id asc  [ RunTime:0.000595s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000350s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid=1 )  [ RunTime:0.000747s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.083706s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086928s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.013905s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004490s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002618s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.030772s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004334s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006494s ]
+
+[ 2013-10-09T18:35:55+08:00 ] 192.168.1.44 /structs/operamail/Index/get_list.html?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003445s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004775s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006071s ]
+SQL: PRAGMA table_info( think_rss ) [ RunTime:0.000402s ]
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+NOTIC: [8] Undefined index:  Extra E:\APMServ5.2.6\www\htdocs\structs\operamail\ThinkPHP\Extend\Driver\Db\DbSqlite.class.php 第 208 行.
+SQL: SELECT * FROM think_rss WHERE ( nodeid = 1 ) ORDER BY pubdate desc  [ RunTime:0.013739s ]
+

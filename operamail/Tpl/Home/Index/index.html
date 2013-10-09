@@ -61,12 +61,17 @@
 			</div>
 			<ul class='rsslis'>
 				<volist name='nodes' id='vo'>
-					<li <eq name='i' value='1'>class='selected'</eq>>
+					<li>
 						<img src='<{$vo.ico}>'>
 						<span class='rsstitle'>
-							<a href='e' title='<{$vo.name}>(33封未读，共33封)'><{$vo.name}></a>
+							<empty name='vo.bid'>
+							<assign name='count' value='0' />
+							<else/>
+							<assign name='count' value='$vo["count"]' />
+							</empty>
+							<a class='rssreada' href='javascript:;' title='<{$vo.name}>(<{$count}>封未读，共<{$count}>封)' data-id='<{$vo.id}>'><{$vo.name}></a>
 						</span>
-						<span class='rsscount fr'>80</span>
+						<span class='rsscount fr'><{$count}></span>
 					</li>
 				</volist>
 			</ul>

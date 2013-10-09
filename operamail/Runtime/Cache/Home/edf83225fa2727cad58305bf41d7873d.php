@@ -60,12 +60,15 @@
 				</span>
 			</div>
 			<ul class='rsslis'>
-				<?php if(is_array($nodes)): $i = 0; $__LIST__ = $nodes;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li <?php if(($i) == "1"): ?>class='selected'<?php endif; ?>>
+				<?php if(is_array($nodes)): $i = 0; $__LIST__ = $nodes;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li>
 						<img src='<?php echo ($vo["ico"]); ?>'>
 						<span class='rsstitle'>
-							<a href='e' title='<?php echo ($vo["name"]); ?>(33封未读，共33封)'><?php echo ($vo["name"]); ?></a>
+							<?php if(empty($vo["bid"])): $count = '0'; ?>
+							<?php else: ?>
+							<?php $count = $vo["count"]; endif; ?>
+							<a class='rssreada' href='javascript:;' title='<?php echo ($vo["name"]); ?>(<?php echo ($count); ?>封未读，共<?php echo ($count); ?>封)' data-id='<?php echo ($vo["id"]); ?>'><?php echo ($vo["name"]); ?></a>
 						</span>
-						<span class='rsscount fr'>80</span>
+						<span class='rsscount fr'><?php echo ($count); ?></span>
 					</li><?php endforeach; endif; else: echo "" ;endif; ?>
 			</ul>
 			<div class='accordtitle'>标签

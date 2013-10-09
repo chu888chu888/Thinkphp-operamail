@@ -2,10 +2,12 @@
 // 本类由系统自动生成，仅供测试用途
 class IndexAction extends Action {
     public function index(){
-		$nodes=M('RssNode')->select();
+		//$nodes=M('RssNode')->select();
+		$nodes2=M()->field('a.ico ico,a.name name,a.id id,b.id bid,count(*) count')->table('think_rss_node a')->join('think_rss b on a.id=b.nodeid')->group('b.nodeid')->order('a.id asc')->select();
 		$rss=M('Rss')->where('nodeid=1')->select();
+		$this->assign('count','0');
 		$this->assign('list',$rss);
-		$this->assign('nodes',$nodes);
+		$this->assign('nodes',$nodes2);
 		$this->display();
     }
 	
@@ -51,5 +53,12 @@ class IndexAction extends Action {
 				$model->add($xmldata);
 			}
 		}
+	}
+	
+	public function get_list(){
+		$id=$_GET['id'];
+		$map['nodeid']=$id;
+		$info=M('Rss')->where($map)->order('pubdate desc')->select();
+		$this->success($info);
 	}
 }

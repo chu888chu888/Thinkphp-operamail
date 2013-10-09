@@ -296,7 +296,7 @@ ul{list-style:none;}
 	box-shadow:3px 3px 3px #ababab;
 }
 .menu li{margin:2px 1px;padding-left:16px;}
-.menu li:hover{background-color:#46a9ff;}
+.menu li:hover{background-color:#46a9ff;color:white;}
 .mread{
 	background-size:16px 16px;
 	background-repeat:no-repeat;
