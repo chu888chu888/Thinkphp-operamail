@@ -4,7 +4,7 @@
 <meta charset='utf-8' />
 <link href='__PUBLIC__/Css/base.css' rel='stylesheet' />
 <script src='__PUBLIC__/Js/jquery-1.7.1.min.js'></script>
-<script src='__PUBLIC__/Js/app.js'></script>
+<script src='__PUBLIC__/Js/app.js?v131010'></script>
 </head>
 <body>
 <div class='left sidebar'>
@@ -58,6 +58,8 @@
 					</ul>
 				</i>
 				</span>
+				<span class='fr'><i class='icon icon16 icon-reload-anim' title='更新'></i></span>
+				
 			</div>
 			<ul class='rsslis'>
 				<?php if(is_array($nodes)): $i = 0; $__LIST__ = $nodes;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li>
@@ -66,7 +68,7 @@
 							<?php if(empty($vo["bid"])): $count = '0'; ?>
 							<?php else: ?>
 							<?php $count = $vo["count"]; endif; ?>
-							<a class='rssreada' href='javascript:;' title='<?php echo ($vo["name"]); ?>(<?php echo ($count); ?>封未读，共<?php echo ($count); ?>封)' data-id='<?php echo ($vo["id"]); ?>'><?php echo ($vo["name"]); ?></a>
+							<a class='rssreada' href='javascript:;' title='<?php echo ($vo["name"]); ?>(<?php echo ($count); ?>封未读，共<?php echo ($count); ?>封)' data-id='<?php echo ($vo["id"]); ?>' data-lastread='<?php echo ($vo["lastread"]); ?>'><?php echo ($vo["name"]); ?></a>
 						</span>
 						<span class='rsscount fr'><?php echo ($count); ?></span>
 					</li><?php endforeach; endif; else: echo "" ;endif; ?>
@@ -100,14 +102,6 @@
 		</div>
 	</div>
 	<div class='arcs'>
-		<div class='arcdate'>昨天</div>
-		<ul class='arclis'>
-			<?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li>
-					<span class='arctitle'><h3><?php echo ($vo["title"]); ?></h3></span>
-					<span class='arcuser'><?php echo ($vo["author"]); ?></span>
-					<span class='arctime fr'>周日 14:10</span>
-				</li><?php endforeach; endif; else: echo "" ;endif; ?>
-		</ul>
 	</div>
 </div>
 <div class='left content'>
@@ -129,19 +123,18 @@
 	</div>
 	<div class='mcont'>
 		<div class='ltitle'>
-			<h1>在线字体识别方法 </h1>
-			<div class='linfo'>lvtao <span class='time'>2013年8月29日 22:50:22</span></div>
+			<h1> </h1>
+			<div class='linfo'><span class='lauthor'></span> <span class='time'></span></div>
 		</div>
 	</div>
 	<hr>
 	<div class='mcont main'>
 		<p>
-			程序发轻狂，代码阑珊，苹果开发安卓狂！——写给狂热的编程爱好者们 学习iOS应用程序开发已有一段时间，最近稍微闲下来了，正好也想记录一下前阶段的整个学习过程。索性就从最基础的开始，一步一步记录一个最简单的iOS应用从创建到运行的全过程，其中会穿插很多相关知识或是遇到过的问题。
-			阅读全文>>
+
 		</p>
 		<p></p>
 		<p></p>
-		<p><a href='' class='readetail'>阅读全文</a><p>
+		<p><a href='' target='_blank' class='readetail'>阅读全文</a><p>
 	</div>
 </div>
 </body>

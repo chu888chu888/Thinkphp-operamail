@@ -67,7 +67,7 @@ ul{list-style:none;}
 	font-size:12px;
 }
 .main{
-	padding-top:0;
+	padding-top: 20px;
 	line-height:22px;
 }
 .ltitle{
@@ -123,6 +123,11 @@ ul{list-style:none;}
 	background-size:22px 18px;
 	background-repeat:no-repeat;
 }
+.icon16{
+	width:16px;
+	height:16px;
+	background-size:16px 16px;
+}
 .sidebar .icon{margin:2px 4px;}
 .icon-delete{
 	background-image:url(images/icons/delete.png);
@@ -135,6 +140,9 @@ ul{list-style:none;}
 }
 .icon-reload{
 	background-image:url(images/icons/reload.png);
+}
+.icon-reload-anim{
+	background-image:url(images/icons-small/reload.png);
 }
 .icon-listsort{
 	background-image:url(images/icons/list_sort.png);
@@ -240,6 +248,14 @@ ul{list-style:none;}
 	padding-bottom:2px;
 	padding-left:18px;
 	background:url(images/icons/bullet_unread.png) no-repeat left bottom;
+}
+.arclis li.unseen{
+	color:#3a59cd;
+	background:url(images/icons/bullet_unseen.png) no-repeat left bottom;
+}
+.arclis li.selected{
+	background-color:#94c6f7;
+	color:white;
 }
 .arctitle h3{font-size:1.05em;}
 .accordtitle{

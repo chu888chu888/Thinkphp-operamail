@@ -2,11 +2,7 @@
 // 本类由系统自动生成，仅供测试用途
 class IndexAction extends Action {
     public function index(){
-		//$nodes=M('RssNode')->select();
-		$nodes2=M()->field('a.ico ico,a.name name,a.id id,b.id bid,count(*) count')->table('think_rss_node a')->join('think_rss b on a.id=b.nodeid')->group('b.nodeid')->order('a.id asc')->select();
-		$rss=M('Rss')->where('nodeid=1')->select();
-		$this->assign('count','0');
-		$this->assign('list',$rss);
+		$nodes2=M()->field('a.ico ico,a.name name,a.id id,a.lastread lastread,b.id bid,count(*) count')->table('think_rss_node a')->join('think_rss b on a.id=b.nodeid')->group('b.nodeid')->order('a.id asc')->select();
 		$this->assign('nodes',$nodes2);
 		$this->display();
     }
@@ -60,5 +56,16 @@ class IndexAction extends Action {
 		$map['nodeid']=$id;
 		$info=M('Rss')->where($map)->order('pubdate desc')->select();
 		$this->success($info);
+	}
+	
+	public function view(){
+		$id=$_GET['id'];
+		$data=M('Rss')->find($id);
+		$data['isread']='1';
+		M('Rss')->save($data);
+		$save['lastread']=$id;
+		$map['id']=$data['nodeid'];
+		M('RssNode')->where($map)->save($save);
+		$this->success($data);
 	}
 }
